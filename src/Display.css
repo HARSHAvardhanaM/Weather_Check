@@ -1,0 +1,11 @@
+.display{
+    width: 100%;
+    margin-left : 50%;
+    margin-bottom : 30px;
+    display : flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left : 120%;
+    align-items: center;
+    text-align: center;
+}

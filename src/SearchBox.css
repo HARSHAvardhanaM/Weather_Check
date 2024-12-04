@@ -1,0 +1,13 @@
+.searchbox{
+    text-align: center;
+    width: 100%;
+    margin-top: 0px;
+    margin-left : 120%;
+    display : flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.head{
+    color: black;
+}
